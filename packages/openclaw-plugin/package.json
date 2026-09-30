@@ -40,7 +40,7 @@
   "dependencies": {
     "@actionbookdev/sdk": "workspace:*",
     "@sinclair/typebox": "^0.34.48",
-    "undici": "^6.21.0"
+    "undici": "^6.28.1"
   },
   "devDependencies": {
     "@types/node": "^20.14.0",
