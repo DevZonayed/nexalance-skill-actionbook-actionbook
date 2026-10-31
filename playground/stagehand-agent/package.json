@@ -24,7 +24,7 @@
     "@browserbasehq/stagehand": "^3.0.6",
     "ai": "^5.0.0",
     "dotenv": "^17.2.3",
-    "zod": "^3.24.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^22.15.21",
